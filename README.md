@@ -1,20 +1,25 @@
 # 🚀 Big Data & MLOps  
 
-Repositório para armazenar scripts essenciais do dia a dia, focados em **Big Data** e **MLOps**. Aqui você encontrará soluções para automação, processamento distribuído e monitoramento de modelos de Machine Learning.  
+Repositório para armazenar scripts essenciais de **Inteligência Artificial (IA)**, **Machine Learning (ML)** e **Python**. Este repositório é voltado para ajudar a resolver problemas práticos do dia a dia, com foco em automação, desenvolvimento de modelos e otimização de processos de IA.
 
 ## 📌 O que você vai encontrar aqui?  
-✔️ **Automação de pipelines de dados**  
-✔️ **Processamento distribuído com Spark e Dask**  
-✔️ **Gerenciamento e monitoramento de modelos de ML**  
-✔️ **Uso de bibliotecas como MLflow, Airflow e Kafka**  
-✔️ **Boas práticas para escalabilidade e eficiência**  
+✔️ **Scripts de Machine Learning** para modelos supervisionados e não supervisionados  
+✔️ **Treinamento e ajuste de modelos** com bibliotecas como Scikit-learn, TensorFlow e PyTorch  
+✔️ **Processamento de dados** com Pandas, Numpy e Dask  
+✔️ **Automação e pipelines** de ML com bibliotecas como MLflow e Airflow  
+✔️ **Boas práticas** de IA e ML para desenvolvimento e deployment de modelos  
 
 ## 🛠 Tecnologias utilizadas  
 
 - **Python 🐍**  
-- **Apache Spark ⚡**  
-- **Dask 📊**  
+- **Scikit-learn 🔧**  
+- **TensorFlow & Keras 🧠**  
+- **PyTorch 🔥**  
+- **Pandas 🧮**  
+- **Numpy ➗**  
+- **Dask 🌐**  
 - **MLflow 🔍**  
 - **Airflow 🌬️**  
-- **Kafka 🔗**  
-- **Docker 🐳**
+
+--
+
