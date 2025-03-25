@@ -1,0 +1,8 @@
+Pandas - Manipulação e análise de dados em tabelas (DataFrames).
+Polars - Alternativa ao Pandas, mais rápida e otimizada para grandes volumes de dados.
+NumPy - Computação numérica com arrays e operações matemáticas.
+Matplotlib - Criação de gráficos e visualizações básicas (corrigindo: você escreveu "matplotlit").
+Plotly - Visualizações interativas e gráficos avançados.
+Seaborn - Visualizações estatísticas baseadas no Matplotlib, mais fáceis e bonitas.
+Pandera - Validação de dados em DataFrames.
+PySpark - Processamento de big data com Spark em Python.

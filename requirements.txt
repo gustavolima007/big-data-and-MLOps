@@ -43,4 +43,3 @@ pip install pydata-google-auth
 pip install cx_Oracle
 pip install msal
 pip list --outdated
-pip install google-cloud-bigquery-storage
